@@ -1,0 +1,4 @@
+dto\PrecoDto.class
+org\example\Main.class
+constantes\RabbitMQConstantes.class
+dto\EstoqueDto.class

@@ -1,0 +1,14 @@
+// baixar imagens e levantar containers 
+docker-compose up -d
+
+// listar imagens
+docker images
+
+// listar containers rodando
+docker ps
+
+// parar imagem e remover
+docker-compose down
+
+// acessar rabbitmq do navegador
+http://localhost:15672
